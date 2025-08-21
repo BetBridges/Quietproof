@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>QuietProof – Tu evidencia silenciosa</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-white text-gray-800 font-sans">
+
+  <!-- Hero -->
+  <section class="relative h-screen flex items-center justify-center bg-cover bg-center" style="background-image: url('data:image/jpeg;base64,...');">
+    <div class="bg-black bg-opacity-50 absolute inset-0"></div>
+    <div class="relative z-10 text-center px-6">
+      <h1 class="text-4xl md:text-6xl font-bold text-white mb-4">Sí, tú puedes protegerte</h1>
+      <p class="text-lg md:text-xl text-white">QuietProof te ayuda a documentar abusos laborales de forma segura y silenciosa.</p>
+    </div>
+  </section>
+
+  <!-- Problema que resolvemos -->
+  <section class="py-16 px-6 md:px-20 bg-gray-50">
+    <div class="max-w-4xl mx-auto text-center">
+      <h2 class="text-3xl font-bold mb-6">El problema que enfrentamos</h2>
+      <p class="text-lg text-gray-700 mb-4">
+        En muchas fábricas, los trabajadores sufren abusos cotidianos por parte de sus superiores: gritos, humillaciones, amenazas o trato injusto. Estas situaciones suelen quedar sin registrar, sin pruebas y sin justicia.
+      </p>
+      <p class="text-lg text-gray-700">
+        QuietProof nace para dar voz a quienes no pueden hablar, ofreciendo una forma segura de documentar lo que ocurre sin exponerse.
+      </p>
+    </div>
+  </section>
+
+  <!-- Cómo funciona -->
+  <section class="py-16 px-6 md:px-20">
+    <div class="max-w-5xl mx-auto grid md:grid-cols-2 gap-12 items-center">
+      <div>
+        <h2 class="text-3xl font-bold mb-6">¿Cómo funciona QuietProof?</h2>
+        <ul class="space-y-4 text-gray-700 text-lg">
+          <li>✅ Descarga la app y configúrala en modo discreto.</li>
+          <li>✅ Registra eventos con notas de voz, texto o selección rápida.</li>
+          <li>✅ Todo se guarda con fecha y hora, cifrado y protegido.</li>
+          <li>✅ Cuando lo necesites, genera un informe con toda la evidencia.</li>
+        </ul>
+      </div>
+      <div>
+        <img src="data:image/jpeg;base64,..." alt="Mano rompiendo papel rosa" class="rounded-lg shadow-lg">
+      </div>
+    </div>
+  </section>
+
+  <!-- Beneficios -->
+  <section class="py-16 px-6 md:px-20 bg-gray-100">
+    <div class="max-w-4xl mx-auto text-center">
+      <h2 class="text-3xl font-bold mb-6">Beneficios para ti</h2>
+      <div class="grid md:grid-cols-3 gap-8 text-left">
+        <div>
+          <h3 class="text-xl font-semibold mb-2">Privacidad total</h3>
+          <p class="text-gray-700">Tu información está cifrada y solo tú decides cuándo usarla.</p>
+        </div>
+        <div>
+          <h3 class="text-xl font-semibold mb-2">Registro automático</h3>
+          <p class="text-gray-700">No necesitas escribir ni denunciar en el momento. QuietProof lo hace por ti.</p>
+        </div>
+        <div>
+          <h3 class="text-xl font-semibold mb-2">Empoderamiento silencioso</h3>
+          <p class="text-gray-700">Construye tu defensa sin confrontaciones ni riesgos inmediatos.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contacto -->
+  <section class="py-16 px-6 md:px-20">
+    <div class="max-w-3xl mx-auto text-center">
+      <img src="data:image/jpeg;base64,..." alt="Mensaje motivacional YES YOU CAN" class="mx-auto mb-8 rounded-lg shadow-md">
+      <h2 class="text-3xl font-bold mb-4">¿Quieres saber más?</h2>
+      <p class="text-lg text-gray-700 mb-6">Estamos aquí para ayudarte. Si trabajas en una fábrica y necesitas una forma segura de documentar abusos, contáctanos.</p>
+      <p class="text-xl font-semibold text-blue-600">📧 quietproof@icloud.com</p>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-gray-800 text-white py-6 text-center">
+    <p class="text-sm">&copy; 2025 QuietProof. Todos los derechos reservados.</p>
+  </footer>
+
+</body>
+</html>
